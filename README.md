@@ -1,4 +1,7 @@
-# test coverage for  [argon2 (v0.15.0)](https://github.com/ranisalt/node-argon2#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-argon2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-argon2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-argon2.svg)](https://travis-ci.org/npmtest/node-npmtest-argon2)
+# npmtest-argon2
+
+#### basic test-coverage for  [argon2 (v0.15.0)](https://github.com/ranisalt/node-argon2#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-argon2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-argon2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-argon2.svg)](https://travis-ci.org/npmtest/node-npmtest-argon2)
+
 #### An Argon2 library for Node
 
 [![NPM](https://nodei.co/npm/argon2.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/argon2)
@@ -113,7 +116,8 @@
         },
         "semicolon": false,
         "space": 2
-    }
+    },
+    "bin": {}
 }
 ```
 
